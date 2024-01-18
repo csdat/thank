@@ -178,14 +178,6 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 奕坦春秋,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226245/index.m3u8
 发现之旅,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226235/index.m3u8
 老故事,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8
-景点直播,#genre#
-居庸关长城,https://gctxyc.liveplay.myqcloud.com/gc/syns01_1_md.m3u8
-​鸟巢水立方,https://gcalic.v.myalicdn.com/gc/glxs01_1/index.m3u8?contentid=2820180516001
-密云古水北镇,https://gcalic.v.myalicdn.com/gc/dlst03_1/index.m3u8?contentid=2820180516001
-​八达岭长城,https://dh5.cntv.myalicdn.com/asp/h5e/hls/1200/0303000a/3/default/0e05d4a0d0924dd1b2c6b993ec2cefe2/1200.m3u8
-​黄花城水长城,https://gcalic.v.myalicdn.com/gc/wgw01_1/index.m3u8?contentid=2820180516001
-​成都环球中心,https://gcalic.v.myalicdn.com/gc/jsh02_1/index.m3u8?contentid=2820180516001
-北京实时直播,https://pl1.cloud.dayang.com.cn/live/10062_fM1juP.m3u8
 
 央视IPV6,#genre#
 
@@ -395,7 +387,14 @@ NNM家庭理财 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/322122624
 未知5 4M1080,http://[2409:8087:2001:20:2800:0:df6e:eb20]:80/wh7f454c46tw2444245842_-988657747/ott.mobaibox.com/PLTV/3/224/3221228539/index.m3u8?icpid=3&RTS=1674369674&from=40&popid=40&hms_devid=2290&prioritypopid=40&vqe=3
 未知6 4M1080,http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/wh7f454c46tw2444135891_2133795787/ott.mobaibox.com/PLTV/3/224/3221228536/index.m3u8?icpid=3&RTS=1674369674&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
 
-
+景点直播,#genre#
+居庸关长城,https://gctxyc.liveplay.myqcloud.com/gc/syns01_1_md.m3u8
+​鸟巢水立方,https://gcalic.v.myalicdn.com/gc/glxs01_1/index.m3u8?contentid=2820180516001
+密云古水北镇,https://gcalic.v.myalicdn.com/gc/dlst03_1/index.m3u8?contentid=2820180516001
+​八达岭长城,https://dh5.cntv.myalicdn.com/asp/h5e/hls/1200/0303000a/3/default/0e05d4a0d0924dd1b2c6b993ec2cefe2/1200.m3u8
+​黄花城水长城,https://gcalic.v.myalicdn.com/gc/wgw01_1/index.m3u8?contentid=2820180516001
+​成都环球中心,https://gcalic.v.myalicdn.com/gc/jsh02_1/index.m3u8?contentid=2820180516001
+北京实时直播,https://pl1.cloud.dayang.com.cn/live/10062_fM1juP.m3u8
 
 体育全网,#genre#
 纬来篮球,http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
