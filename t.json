@@ -186,7 +186,7 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 ​成都环球中心,https://gcalic.v.myalicdn.com/gc/jsh02_1/index.m3u8?contentid=2820180516001
 北京实时直播,https://pl1.cloud.dayang.com.cn/live/10062_fM1juP.m3u8
 
-央视移动网,#genre#
+央视移动,#genre#
 CCTV-01 综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV-02 财经,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
 CCTV-03 综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
@@ -341,7 +341,7 @@ NNM家庭理财 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/322122624
 未知5 4M1080,http://[2409:8087:2001:20:2800:0:df6e:eb20]:80/wh7f454c46tw2444245842_-988657747/ott.mobaibox.com/PLTV/3/224/3221228539/index.m3u8?icpid=3&RTS=1674369674&from=40&popid=40&hms_devid=2290&prioritypopid=40&vqe=3
 未知6 4M1080,http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/wh7f454c46tw2444135891_2133795787/ott.mobaibox.com/PLTV/3/224/3221228536/index.m3u8?icpid=3&RTS=1674369674&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
 
-卫视频道👉IPV6,#genre#
+卫视IPV6,#genre#
 湖南卫视「IPV6」,http://[2409:8087:1e03:21::36]:6610/cms001/ch00000090990000001026/index.m3u8?love=freedom
 浙江卫视「IPV6」,http://[2409:8087:1e03:21::36]:6610/cms001/ch00000090990000001023/index.m3u8?love=freedom
 江苏卫视「IPV6」,http://[2409:8087:1e03:21::36]:6610/cms001/ch00000090990000001033/index.m3u8?love=freedom
@@ -547,8 +547,6 @@ CHC家庭ipv6,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380760
 星星影院✔原,http://maomao.kandiantv.cn/douyu1.php?id=315131
 欧美大片✔原,http://maomao.kandiantv.cn/douyu1.php?id=2793084
 贝爷影厅✔原,http://maomao.kandiantv.cn/douyu1.php?id=252802
-
-
 
 国内影院,#genre#
 绍兴影院频道,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
